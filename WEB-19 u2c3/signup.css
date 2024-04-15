@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: monospace;
+}
+
+
+#signupForm{
+   width: fit-content;
+   margin: auto;
+   margin-top: 50px;
+   padding: 30px;
+   box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#username{
+    width: 315px;
+    height: 40px;
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+    display: block;
+}
+
+#role{
+    width: 315px;
+    height: 40px;
+}
+
+#password{
+    width: 315px;
+    height: 40px;
+    text-align: center;
+}
+
+#signup{
+    background-color: #2b619e;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 20px;
+    margin-top: 20px;
+}
